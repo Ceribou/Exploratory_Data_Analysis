@@ -1,1 +1,3 @@
-# EDA_Projects
+# EDA Projects
+
+Jeda Certification - Module 2
